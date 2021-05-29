@@ -36,5 +36,4 @@ class Order {
 }
 
 public class CouplingExamplesProblem {
-
 }

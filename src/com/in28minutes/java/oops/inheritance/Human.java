@@ -1,5 +1,4 @@
 package com.in28minutes.java.oops.inheritance;
-
 public class Human {
     private int eyes=2;
     public Human (int eyes){

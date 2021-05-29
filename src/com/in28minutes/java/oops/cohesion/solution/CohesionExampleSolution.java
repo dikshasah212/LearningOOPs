@@ -6,7 +6,7 @@ package com.in28minutes.java.oops.cohesion.solution;
 
 class InternetDownloader {
 	public void downloadFromInternet() {
-	System.out.println("Download From Internet");
+		System.out.println("Download From Internet");
 	}
 }
 

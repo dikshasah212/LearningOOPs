@@ -1,5 +1,4 @@
 package com.in28minutes.java.oops.inheritance;
-
 public class Girl extends Human{
     private int eyes;
     public Girl(int eyes){
