@@ -9,6 +9,12 @@ public class Girl extends Human{
     public String gender(){
         return "I am Female";
     }
+
+    @Override
+    public void emotion() {
+
+    }
+
     public void skipping(){
         System.out.println("We can Skip");
     }

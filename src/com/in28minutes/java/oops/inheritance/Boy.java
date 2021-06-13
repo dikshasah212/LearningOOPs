@@ -6,6 +6,7 @@ public class Boy extends Human{
     }
     @Override
     public String gender(){
+
         return "I am Male";
     }
     public String gender(String gender){
@@ -13,5 +14,8 @@ public class Boy extends Human{
     }
     public void playCricket(){
         System.out.println("PLaying Cricket");
+    }
+    public void emotion(){
+        System.out.println("Boys are emotionless!");
     }
 }
